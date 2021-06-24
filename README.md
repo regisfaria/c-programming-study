@@ -8,6 +8,17 @@ So this repository is the result of the study I'm doing for the selection exam.
 
 ## Installation & Running 
 
+You can build `main.c` programs with:
+
+```shell
+gcc main.c -o main
+```
+
+After compile, execute it with:
+
+```shell
+./main
+```
 
 ## Progress
 
