@@ -17,7 +17,7 @@ I'm following courses of giraffe academy to remember the language.
 
 Here I'll write where I've stopped at the video, so I can track progress
 
-Stopped at: 
+Stopped at: 32:27 - Data types
 Link: [C Programming for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)
 
 ## Contact
